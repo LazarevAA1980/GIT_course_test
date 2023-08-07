@@ -9,5 +9,6 @@ namespace ConsoleApp1
     //изменение в BookStorage номер 1
     internal class BookStorage
     {
+        Console.WriteLine("Change number 2 in BookStorage class!");
     }
 }
