@@ -11,3 +11,4 @@ namespace ConsoleApp1
         Console.WriteLine("Change number 2 in BookStorage class!");
     }
 }
+//сделал изменения для subtask_2
